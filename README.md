@@ -20,5 +20,5 @@ Aqui es donde me hago pasar por un programador clase legendario_que no toca past
     python -m pip install
     ```
 
-## **Advertencia**
-***Internet basura*** **Escribir con cuidado**
+## **Advertencia** 
+***Internet basura*** **Escribir con cuidado Y NO TOCAR NADA QUE NO SEPAS**
